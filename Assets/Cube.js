@@ -2,6 +2,7 @@
 
 function Start () {
 
+	Debug.Log("Hello Github!);
 }
 
 function Update () {
